@@ -1,5 +1,5 @@
 ![Weathera-app-ReactJs](https://user-images.githubusercontent.com/30949498/122554547-c113d780-d056-11eb-82ff-ec5f0dd44bdf.png)
-![Weathera-app-ReactJs](https://user-images.githubusercontent.com/30949498/122554727-fb7d7480-d056-11eb-9d2a-007f6f08b2da.png)
+
 # Getting Started with Create React App
 
 
